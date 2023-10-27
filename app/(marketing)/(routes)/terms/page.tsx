@@ -1,4 +1,4 @@
-export const TermsAndConditions = () => {
+const TermsAndConditions = () => {
   return (
     <div className="container mx-auto px-4 py-6">
       <h1 className="text-2xl font-bold text-center mb-4">Terms and Conditions for Noot</h1>
