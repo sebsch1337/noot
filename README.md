@@ -1,4 +1,4 @@
-<p align="center"><img width="150" alt="image" src="./assets/logo.svg"></p>
+<p align="center"><img width="150" alt="image" src="./public/logo.svg"></p>
 <h3 align="center">Noot</h3>
 <p align="center">Your Ideas, Documents and Plans.</p>
 <p align="center"><a href="https://meetin-1337.vercel.app/">https://noot-1337.vercel.app/</a></p>
