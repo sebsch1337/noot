@@ -1,36 +1,52 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center"><img width="150" alt="image" src="./assets/logo.svg"></p>
+<h3 align="center">Noot</h3>
+<p align="center">Your Ideas, Documents and Plans.</p>
+<p align="center"><a href="https://meetin-1337.vercel.app/">https://noot-1337.vercel.app/</a></p>
+
+## Overview
+
+Noot is a simple note taking app with a WYSIWYG editor and image upload.
+
+## Features
+
+- Login via Google or GitHub
+- Create notes and nest them
+- Format your notes and upload images using the WYSIWYG editor
+- Publish your notes in read-only mode for others
+- Delete your notes and restore them
+- Changes are saved immediately using a realtime database
+
+## Used Tech Stack
+
+- Next.JS 13 / React framework
+- TypeScript for typesafe developing
+- TailwindCSS for styling
+- Shadcn as component base
+- Convex as realtime database
+- Clerk as auth provider
+- Edgestore as file storage
+- Blocknote as WYSIWYG editor
+- Sonner for toasts
+- Zustand for global states
+- Lucide for icons
 
 ## Getting Started
 
-First, run the development server:
+### Installation
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+`npm install`
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### Run dev environment
+Run Next.JS server
+`npm run dev`
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Run Convex database provider
+`npx convex dev`
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+<a href="http://localhost:3000">http://localhost:3000</a>
 
-## Learn More
+## About
 
-To learn more about Next.js, take a look at the following resources:
+I'm looking forward to start exciting projects with you as a 100% remote developer.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+You can find more informations about me and my tech stack on my GitHub page.
