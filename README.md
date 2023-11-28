@@ -1,7 +1,7 @@
 <p align="center"><img width="150" alt="image" src="./public/logo.svg"></p>
 <h3 align="center">Noot</h3>
 <p align="center">Your Ideas, Documents and Plans.</p>
-<p align="center"><a href="https://meetin-1337.vercel.app/">https://noot-1337.vercel.app/</a></p>
+<p align="center"><a href="https://noot-1337.vercel.app/">https://noot-1337.vercel.app/</a></p>
 
 ## Overview
 
@@ -18,7 +18,8 @@ Noot is a simple note taking app with a WYSIWYG editor and image upload.
 
 ## Used Tech Stack
 
-- Next.JS 13 / React framework
+- React library
+- Next.JS 13 framework
 - TypeScript for typesafe developing
 - TailwindCSS for styling
 - Shadcn as component base
